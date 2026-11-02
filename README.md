@@ -1,0 +1,15 @@
+# rtt-bsp-hpm5100evk
+RT-Thread Studio BSP for HPM5100EVK Board
+
+## Supported examples
+***
+- adc_example
+- blink_led
+- flashdb_demo
+- mcan_example
+- pwm_demo
+- spi_nor_flash_fs_demo
+- timer_demo
+- uart_dma_demo
+- usb_device_generic_hid
+- usb_host_msc_udisk
